@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project One CLI and Scraping"
-date:       2020-10-25 05:01:08 +0000
+date:       2020-10-25 01:01:09 -0400
 permalink:  project_one_cli_and_scraping
 ---
 
